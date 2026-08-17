@@ -10,11 +10,7 @@
 
 <strong>Guatemala, Ciudad de Guatemala</strong>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 Me gusta desarrollar soluciones de software, aprender nuevas tecnologías y trabajar en proyectos que abarcan desde desarrollo web hasta sistemas, redes e inteligencia artificial.
 
@@ -28,18 +24,19 @@ Me gusta desarrollar soluciones de software, aprender nuevas tecnologías y trab
 
 <div align="center">
 
-**Estudiante de Ingeniería en Ciencias y Sistemas**
+<strong>Estudiante de Ingeniería en Ciencias y Sistemas</strong>
+
 Universidad de San Carlos de Guatemala
 
 <br>
 
-Interesado en el **desarrollo de software** y nuevas tecnologías.
+Interesado en el <strong>desarrollo de software</strong> y nuevas tecnologías.
 
-Experiencia académica desarrollando proyectos de **Frontend, Backend, Redes y Sistemas Operativos**.
+Experiencia académica desarrollando proyectos de <strong>Frontend, Backend, Redes y Sistemas Operativos</strong>.
 
-Actualmente explorando y ampliando mis conocimientos en **Inteligencia Artificial**.
+Actualmente explorando y ampliando mis conocimientos en <strong>Inteligencia Artificial</strong>.
 
-Siempre aprendiendo, desarrollando y mejorando mis habilidades como **Software Developer**.
+Siempre aprendiendo, desarrollando y mejorando mis habilidades como <strong>Software Developer</strong>.
 
 </div>
 
@@ -99,6 +96,7 @@ Siempre aprendiendo, desarrollando y mejorando mis habilidades como **Software D
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### Gestor de Inventario
@@ -125,9 +123,11 @@ Proyectos y prácticas desarrolladas en **Python** aplicando conceptos relaciona
 <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=flat-square&logoColor=00D9FF"/>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### Manejo e Implementación de Archivos
@@ -154,9 +154,11 @@ Prácticas y proyectos utilizando **C, Linux y Makefile**, trabajando conceptos 
 <img src="https://img.shields.io/badge/Makefile-0D1117?style=flat-square&logoColor=00D9FF"/>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### Redes
@@ -183,29 +185,13 @@ Implementación de estructuras de datos y algoritmos utilizando **C++**.
 <img src="https://img.shields.io/badge/Algorithms-0D1117?style=flat-square&logoColor=00D9FF"/>
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00D9FF,100:0D1117&height=3&section=header" width="100%"/>
-
-<div align="center">
-
-### Johan Cardona
-
-**Software Developer**
-
-<br><br>
-
-`USAC` · `Ingeniería en Ciencias y Sistemas` · `Guatemala`
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,35:0F172A,70:111827,100:0D1117&height=110&section=footer"/>
-
-</div>
-
 
 ## Contacto
 
@@ -215,7 +201,7 @@ Puedes contactarme o conocer más sobre mi perfil profesional a través de:
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/johan-moises-cardona-rosales/">
+<a href="https://www.linkedin.com/in/johan-moises-cardona-rosales/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
 </a>
 
@@ -231,3 +217,30 @@ Puedes contactarme o conocer más sobre mi perfil profesional a través de:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00D9FF,100:0D1117&height=3&section=header" width="100%"/>
 
+<br>
+
+<div align="center">
+
+### Johan Cardona
+
+<strong>Software Developer</strong>
+
+<br><br>
+
+`USAC` · `Ingeniería en Ciencias y Sistemas` · `Guatemala`
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/johan-moises-cardona-rosales/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" />
+</a>
+
+<a href="mailto:jmcr3108@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00D9FF" />
+</a>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,35:0F172A,70:111827,100:0D1117&height=110&section=footer"/>
+
+</div>
