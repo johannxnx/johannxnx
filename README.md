@@ -69,6 +69,20 @@ Siempre aprendiendo, desarrollando y mejorando mis habilidades como **Software D
 
 <br>
 
+### Bases de Datos
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00D9FF" />
+
+</div>
+
+<br>
+
 ### Herramientas y tecnologías
 
 <div align="center">
