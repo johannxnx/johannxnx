@@ -205,3 +205,29 @@ Implementación de estructuras de datos y algoritmos utilizando **C++**.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,35:0F172A,70:111827,100:0D1117&height=110&section=footer"/>
 
 </div>
+
+
+## Contacto
+
+<div align="center">
+
+Puedes contactarme o conocer más sobre mi perfil profesional a través de:
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/johan-moises-cardona-rosales/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+</a>
+
+  
+
+<a href="mailto:jmcr3108@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00D9FF,100:0D1117&height=3&section=header" width="100%"/>
+
