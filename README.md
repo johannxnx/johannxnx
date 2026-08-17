@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Guatemala-0D1117?style=for-the-badge&labelColor=111827&color=00D9FF" />
+**Guatemala**
 
 </div>
 
@@ -26,25 +26,24 @@ Me gusta desarrollar soluciones de software, aprender nuevas tecnologías y trab
 
 ## Sobre mí
 
-```typescript
-const johan = {
-    universidad: "Universidad de San Carlos de Guatemala",
-    carrera: "Ingeniería en Ciencias y Sistemas",
-    perfil: "Software Developer",
-    ubicación: "Guatemala",
+<div align="center">
 
-    intereses: [
-        "Desarrollo de Software",
-        "Frontend",
-        "Backend",
-        "Inteligencia Artificial",
-        "Redes",
-        "Sistemas Operativos"
-    ],
+**Estudiante de Ingeniería en Ciencias y Sistemas**
+Universidad de San Carlos de Guatemala
 
-    estado: "Siempre aprendiendo"
-};
-```
+<br>
+
+Interesado en el **desarrollo de software** y nuevas tecnologías.
+
+Experiencia académica desarrollando proyectos de **Frontend, Backend, Redes y Sistemas Operativos**.
+
+Actualmente explorando y ampliando mis conocimientos en **Inteligencia Artificial**.
+
+Siempre aprendiendo, desarrollando y mejorando mis habilidades como **Software Developer**.
+
+</div>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00D9FF,100:0D1117&height=3&section=header" width="100%"/>
 
@@ -181,9 +180,9 @@ Implementación de estructuras de datos y algoritmos utilizando **C++**.
 
 ### Johan Cardona
 
-<img src="https://img.shields.io/badge/Software_Developer-0D1117?style=for-the-badge&labelColor=111827&color=00D9FF"/>
+**Software Developer**
 
-<br><br>
+<br>
 
 `USAC` · `Ingeniería en Ciencias y Sistemas` · `Guatemala`
 
@@ -192,4 +191,3 @@ Implementación de estructuras de datos y algoritmos utilizando **C++**.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,35:0F172A,70:111827,100:0D1117&height=110&section=footer"/>
 
 </div>
-
