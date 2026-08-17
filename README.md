@@ -8,7 +8,7 @@
 
 <br><br>
 
-<strong>Guatemala</strong>
+<strong>Guatemala, Ciudad de Guatemala</strong>
 
 </div>
 
