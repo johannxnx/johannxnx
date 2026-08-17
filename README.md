@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingeniería+en+Ciencias+y+Sistemas;Software+Developer;Desarrollo+Web+%7C+IA+%7C+Redes+%7C+Sistemas" />
 
-<br>
+<br><br>
 
-**Guatemala**
+<strong>Guatemala</strong>
 
 </div>
 
@@ -182,7 +182,7 @@ Implementación de estructuras de datos y algoritmos utilizando **C++**.
 
 **Software Developer**
 
-<br>
+<br><br>
 
 `USAC` · `Ingeniería en Ciencias y Sistemas` · `Guatemala`
 
