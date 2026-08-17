@@ -2,7 +2,7 @@
 
 # Johan Cardona
 
-### 💻 Estudiante de Ingeniería en Ciencias y Sistemas | Software Developer
+### Estudiante de Ingeniería en Ciencias y Sistemas | Software Developer
 
 Guatemala 🇬🇹
 
@@ -72,32 +72,3 @@ Implementación de estructuras de datos y algoritmos utilizando **C++**.
 
 ---
 
-## Estadísticas de GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=johannxnx&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannxnx&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## Actividad
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=johannxnx&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-
-<div align="center">
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=johannxnx\&style=flat-square)
-
-</div>
